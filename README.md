@@ -1,7 +1,20 @@
-## Hi there 👋
+## Hi there i'm Joel Wachira 👋
 
-<!--
-**wachira-54/wachira-54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME
+i AM a programming student at IYF PERSSIONATE ABOUT TECHNOLOGICAL DEVELOPMENT AND CREATING SOLUTIONS.
+
+TOOLS 
+-Node.js    -CSS
+HTML        -Javascript
+
+PROJECTS
+-iyf-s10-week-03-wachira-54
+
+HOW TO REACH ME
+EMAIL:wambugu.joelwachira54@gmail.com
+phone:0769091884
+instagram:mkuru
+
 
 Here are some ideas to get you started:
 
